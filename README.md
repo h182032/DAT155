@@ -1,3 +1,3 @@
 # DAT155
 
-GRAFISKE METODER
+Grafiske metoder
